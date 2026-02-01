@@ -1,16 +1,53 @@
-## Hi there 👋
+# Gurman Singh
 
-<!--
-**gsingh-dev1/gsingh-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity-focused student with a strong interest in Blue Team operations, SOC workflows, and detection engineering.
 
-Here are some ideas to get you started:
+I focus on understanding how attacks actually work so I can build better detections, investigate alerts effectively, and reduce false positives in real-world environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Areas of Focus
+- SOC alert triage & investigation  
+- Log analysis (Windows, network, authentication)  
+- Detection engineering & SIEM logic  
+- MITRE ATT&CK–based threat analysis  
+- Incident response fundamentals  
+
+---
+
+## 🛠 Tools & Platforms
+- Hack The Box (Blue Team)
+- LetsDefend
+- Splunk
+- ELK Stack (learning)
+- Sigma rules
+- MITRE ATT&CK
+
+---
+
+## 📂 Featured Work
+Pinned repositories below showcase:
+- Blue Team lab writeups  
+- SOC-style investigations  
+- Detection engineering notes  
+- Cybersecurity concept explanations  
+
+Each project focuses on *how I think*, not just what tools I use.
+
+---
+
+## 📈 What I’m Working On Now
+- Writing structured SOC investigation reports  
+- Improving detection logic and reducing false positives  
+- Building a public cybersecurity knowledge base  
+- Strengthening incident response fundamentals  
+
+---
+
+## 🌐 Connect
+- Website: https://gurman.dev  
+- Email: contact@gurman.dev  
+
+---
+
+> I believe strong defenders are built by curiosity, consistency, and a deep understanding of attacker behavior.
